@@ -1,2 +1,1 @@
-# Capstone Project : 1
- Sample HTML-portfolio
+# Sample HTML-portfolio
